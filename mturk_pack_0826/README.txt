@@ -4,8 +4,10 @@ Image reading study
 Open the batch page you were assigned (batch_01.html ... batch_10.html) in Chrome or
 Edge, enter your Worker ID, and answer every question about the image shown.
 Answer exactly what is drawn — do not infer what 'should' be there.
-If the thing the question asks about is not present in the image at all, answer with
-a single dash -
+If the answer cannot be read from the image -- the thing the question asks about is
+not present at all, is cut off by the edge, or is unreadable -- answer with a single
+dash -   (type the dash and press Enter). A dash is never counted against you.
+Do not type the letter k as an answer: k is only the keyboard shortcut for skipping.
 Count an item only if it is more than half visible; ignore anything cut in half or
 less by the edge of the picture.
 The images are AI-generated and may contain garbled text, misaligned layouts, or
@@ -81,3 +83,6 @@ numeric display on a machine's front panel.
      no spaces (4,4,2,0), in the order the question names.
   f. Yes-no and a-b answers are entered with the page's buttons or the y / n / a / b
      keys; write nothing else in those.
+  g. If a typed answer cannot be read from the picture at all, type a single dash -
+     and press Enter. Use the skip button (or the k key outside the text box) only
+     when a question is truly impossible to attempt; both are never held against you.
